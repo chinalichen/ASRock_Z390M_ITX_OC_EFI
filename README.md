@@ -1,0 +1,1 @@
+# ASRock_Z390M_ITX_OC_EFI
