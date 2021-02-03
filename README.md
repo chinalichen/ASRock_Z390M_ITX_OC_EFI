@@ -49,7 +49,7 @@ ASRock Z390M-ITX/ac has a Intel Wi-Fi module(M.2 E-key) which can not driven by 
 - USB 2.0, USB 3.0, type-C, front panel USB 3.0
 - Airdrop
 - CPU boost
-- Sleep [Michael-kj](https://github.com/michael-kj) have tested.
+- Sleep Thanks to [Michael-kj](https://github.com/michael-kj), [sleep works](https://github.com/chinalichen/ASRock_Z390M_ITX_OC_EFI/issues/1).
 
 ## What I have not tested yet
 
